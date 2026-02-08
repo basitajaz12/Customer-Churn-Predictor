@@ -1,4 +1,5 @@
 Customer Churn Predictor
+
 A machine learning app that predicts the likelihood of customers leaving (churn) by analyzing historical usage and account data. The app generates a churn probability to help identify at‑risk customers early.
 
 ✅ Features
